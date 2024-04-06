@@ -1,10 +1,13 @@
+<p align="center">
+«──────────────────────── « ⋅ʚ <img src="https://pixelsafari.neocities.org/favicon/nature/plant/flower/pink18.gif"> ɞ⋅ » ────────────────────────»
+</p>
 <div align="center">
 
 ㅤㅤㅤㅤ<p>  [! HELP PALESTINE !](https://arab.org/click-to-help/palestine/) <p/>
 </div>
 <div align="center">
 
-ㅤㅤㅤㅤ<p> My main account is [RudySzczur](https://github.com/RudySzczur) <p/>
+ㅤㅤㅤㅤ<p> My main account is [RudySzczur](https://github.com/RudySzczur) & My [Guestbook](https://rudyszczur.123guestbook.com)<p/>
 </div>
 <p align="center">
 «──────────────────────── « ⋅ʚ <img src="https://pixelsafari.neocities.org/favicon/nature/plant/flower/pink18.gif"> ɞ⋅ » ────────────────────────»
