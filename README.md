@@ -4,7 +4,7 @@
 </div>
 <div align="center">
 
-ㅤㅤㅤㅤ<p> My main account is [RudySzczur](https://github.com/RudySzczur) & My [Guestbook](https://rudyszczur.123guestbook.com)<p/>
+ㅤㅤㅤㅤ<p> My main account is [RudySzczur](https://github.com/RudySzczur),, My [Guestbook](https://rudyszczur.123guestbook.com),, My [Carrd](https://rudeszczury.carrd.co)<p/>
 </div>
 
 <p align="center">
