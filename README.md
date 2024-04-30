@@ -5,6 +5,8 @@
 <div align="center">
 
 ㅤㅤㅤㅤ<p> My main account is [RudySzczur](https://github.com/RudySzczur),, My [Guestbook](https://rudyszczur.123guestbook.com),, My [Carrd](https://rudeszczury.carrd.co)<p/>
+<p>Attaching this github to my oc skins because yes</p>
+<p>(Idea stolen from @Vilipender :P)</p>
 </div>
 
 <p align="center">
