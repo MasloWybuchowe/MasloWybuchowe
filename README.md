@@ -7,6 +7,7 @@
 ㅤㅤㅤㅤ<p> My main account is [RudySzczur](https://github.com/RudySzczur),, My [Guestbook](https://rudyszczur.123guestbook.com),, My [Carrd](https://rudeszczury.carrd.co)<p/>
 <p>Attaching this github to my oc skins because yes</p>
 <p>(Idea stolen from @Vilipender :P)</p>
+<p> I am literaly the cat in the pic ignore the text this cat is so me coded thats how i look irl trust </p>
 </div>
 
 <p align="center">
