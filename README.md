@@ -10,5 +10,5 @@
 </div>
 
 <p align="center">
-<img src="https://media.discordapp.net/attachments/872217789589504031/1226215348169347102/Screenshot_20240323_183913_Instagram.jpg?ex=6623f508&is=66118008&hm=0f494957df4ba3db75f2f00c7cc66194a8e1ae0a74bcd80ce4e4e6da5d64a7d6&=&format=webp&width=771&height=489"/>
+<img src="https://media.discordapp.net/attachments/1067381871736012840/1237902357300383744/20240507_041521.jpg?ex=663d55e9&is=663c0469&hm=729d8e477cb0be06d6c466accd3d11ec037f9e3c27a579d73094823223c86277&=&format=webp&width=500&height=500"/>
 </p>
