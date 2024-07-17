@@ -11,5 +11,7 @@
 </div>
 
 <p align="center">
-<img src="https://media.discordapp.net/attachments/872217789589504031/1255598188476371274/image.png?ex=667db670&is=667c64f0&hm=4bdeb9fbb452b22009bc978ce27995a761e89fa16d2e3609187e93a91007814d&=&format=webp&quality=lossless&width=438&height=437"/>
+<img src="https://media.discordapp.net/attachments/684498367274811409/1263250848989974631/20240507_041521.jpg?ex=66998d88&is=66983c08&hm=891739f8f45b279f67a64358707e681a748a2bd3bcfe6f36a4e5dd395d6b78cf&=&format=webp&width=500&height=500"/>
+<p align="center">
+<img src="https://media.discordapp.net/attachments/684498367274811409/1263250849224724480/Screenshot_20240509_010507_Google.jpg?ex=66998d88&is=66983c08&hm=88e1137692b106a0f0c80738b284abb80b0618e499240df8637524de59839057&=&format=webp&width=500&height=500"/>
 </p>
